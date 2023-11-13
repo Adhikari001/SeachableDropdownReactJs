@@ -1,4 +1,10 @@
-# React + Vite
+## SeachableDropdownReactJs
+
+Created a Searchable Dropdown in React
+
+Change the API path, request, response, and token in useSeaarch.js.
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
